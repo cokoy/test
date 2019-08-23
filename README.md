@@ -1,2 +1,2 @@
 # test
-this project is just for testing
+this project is just for test
